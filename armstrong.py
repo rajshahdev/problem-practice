@@ -18,3 +18,4 @@ for i in range(1001):
         n = n // 10
     if result == i:
         print(result)
+
